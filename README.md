@@ -1,3 +1,1 @@
 # Bank Contest
-
-test

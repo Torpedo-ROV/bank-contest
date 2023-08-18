@@ -1,1 +1,1 @@
-# bank-contest
+# Bank Contest
